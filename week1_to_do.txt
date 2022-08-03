@@ -15,7 +15,8 @@ Week 1, CLI, Source Control, and Variables
 -Posting Questions to Slack /
 -Previous Class Recordings /
 
--wrote a bash script for initalizing git faster: https://github.com/CardioLeo/gitgitgo /
+-wrote, tested, sourced and shared a bash script for initalizing git faster: https://github.com/CardioLeo/gitgitgo /
+-also placed a couple aliases that will come in handy in the comine 17 or so weeks of this class /
 
 -Coding Assignment Instructions /
 -Week 1 Research /
