@@ -15,13 +15,13 @@ Week 1, CLI, Source Control, and Variables
 -Posting Questions to Slack /
 -Previous Class Recordings /
 
--Coding Assignment Instructions
+-Coding Assignment Instructions /
 -Week 1 Research /
 -Week 1 Career Services Instructions
 -Week 1 LinkedIn Posts /
 -Week 1 Class Attendance
 
--Quiz Week 1 Coding Assignment Submission
+-Quiz Week 1 Coding Assignment Submission /
 -Quiz Week 1 Career Services Submission
 -External tool Week 1 JavaScript Operations
 -External tool Week 1 JavaScript Variables
